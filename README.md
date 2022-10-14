@@ -1,4 +1,4 @@
-# PCA
+# Principle Content Analysis
 Project of Principle Content Analysis in C++. Given an input matrix 'mat' in 'nRow' rows and 'nCol' columns,  if nRow >= nCol the PCA mapping matrix is trained with covariance matrix otherwise when nRow < nCol, the PCA mapping matrix is trained by Gram method.
 
 # Required library 
