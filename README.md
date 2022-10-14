@@ -4,13 +4,15 @@ Project of Principle Content Analysis in C++. Given an input matrix 'mat' in 'nR
 # Required library 
 ### lapack
 ### blas
-Under Linux, one can install them as follows
+Under Ubuntu Linux, one can install them as follows
 
 ```
 sudo apt-get install libblas-dev liblapack-dev
 ```
 
 # Compile
+One should be able to compile and run it smoothly under both Linux and MacOS. For Windows, minor modifications might be reqiured on 'vstring.cpp'.
+
 ``` 
 cd PCA/
 make release
