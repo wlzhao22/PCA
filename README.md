@@ -21,7 +21,7 @@ make release
 pcatrn -pc mat -d dstfn
 ```
 
-A sample input matrix 'sift4k' is found from 'data/'. Since we have to calculate the covariance matrix during the training, one should not provide a matrix in many rows. The training could be run out of memory. The number rows should be around 20 times of vector dimension. 
+A sample input matrix 'sift4k.txt' is found from 'data/'. Since we have to calculate the covariance matrix during the training, one should not provide a matrix in many rows. The training could be run out of memory. The number rows should be around 20 times of vector dimension. 
 
 # Author
 Wan-Lei Zhao
