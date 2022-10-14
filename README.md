@@ -8,7 +8,7 @@ Under Linux, one can install them as follows
 
 ```
 sudo apt-get install libblas-dev liblapack-dev
-
+```
 
 # Compile
 ``` 
